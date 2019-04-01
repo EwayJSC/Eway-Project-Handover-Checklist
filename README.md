@@ -49,11 +49,7 @@ Create a project in your chosen issue tracker and add tasks.
 
 [Handover completeness](cl-completeness.md) - Used to verify if handover was successful.
 
-### Links
-
-[Using task lists in GitHub-flavored markdown](https://github.com/blog/1375%0A-task-lists-in-gfm-issues-pulls-comments)
-
 ### License
-
-[Futurice](http://www.futurice.com)
+[Eway] (https://eway.vn/)
+[Futurice] (http://www.futurice.com)
 Creative Commons Attribution 4.0 International (CC BY 4.0)
